@@ -4,7 +4,8 @@ Personal Neovim configuration I use.
 A fork of [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) that I used to learn about Neovim and edited down to fit my specific needs
 
 ## NVIM Installation:
-#### NOTE: NeoVim version must be greater than 0.10 for these to automatically work
+#### NOTE: NeoVim version must be greater than 0.11 for these to automatically work.
+#### Additionally, some binary installs are required for "rg" (ripgrep) and "fd"
 
 Instructions here: https://github.com/neovim/neovim/releases/tag/stable
 
